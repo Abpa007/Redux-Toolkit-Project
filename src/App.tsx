@@ -2,6 +2,7 @@ import {Provider} from "react-redux"
 import store from "./Store/Store"
 import './App.css'
 import { Container, Typography } from "@mui/material"
+import AddHabitForm from "./Components/AddHabitForm"
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
           <Typography component="h1" variant="h2" align="center">
             Habit Tracker
           </Typography>
+          <AddHabitForm/>
         </Container>
       </Provider>
     </>

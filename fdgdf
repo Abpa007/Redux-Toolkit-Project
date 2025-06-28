@@ -1,17 +1,5 @@
 
-Copy
-Edit
-➡️ Installs:
 
-@reduxjs/toolkit
-
-react-redux
-
-@mui/material @mui/icons-material @emotion/react @emotion/styled
-
-3️⃣
-sql
-Copy
 Edit
 git commit -m "Set up Redux store and wrap app with Provider"
 ➡️ Creates store.ts, configures Redux store, and wraps in <Provider>.
@@ -20,7 +8,6 @@ git commit -m "Set up Redux store and wrap app with Provider"
 sql
 Copy
 Edit
-git commit -m "Create habitSlice with add and toggleComplete reducers"
 ➡️ Adds habitSlice.ts with:
 
 addHabit action

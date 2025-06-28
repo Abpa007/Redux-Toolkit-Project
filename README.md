@@ -1,4 +1,4 @@
-# Habit Tracker (Redux Toolkit + Material UI + Vite + React + TypeScript)
+# Habits Tracker (Redux Toolkit + Material UI + Vite + React + TypeScript)
 
 A clean, fast **habit tracker** to add and manage your daily or weekly habits, track streaks, and visualize progress easily.
 

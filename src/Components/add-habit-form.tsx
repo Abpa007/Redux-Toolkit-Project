@@ -9,8 +9,8 @@ import {
   MenuItem,
   Box,
 } from "@mui/material";
-import { addHabit } from "../Store/HabitSlice";
-import { AppDispatch } from "../Store/Store";
+import { addHabit } from "../store/habit-slice";
+import { AppDispatch } from "../store/store";
 
 const AddHabitForm: React.FC = () => {
   const [name, setName] = useState("");

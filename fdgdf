@@ -24,7 +24,6 @@ Edit
 sql
 Copy
 Edit
-git commit -m "Add AddHabitForm component with Material-UI TextField and Button"
 ➡️ Uses TextField and Button to add new habits using dispatch(addHabit).
 
 7️⃣

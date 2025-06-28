@@ -37,8 +37,6 @@ git commit -m "Implement toggle functionality to mark habits as complete"
 sql
 Copy
 Edit
-git commit -m "Add Material-UI AppBar and Container for layout"
-➡️ Adds a Navbar using AppBar, wraps content in Container for clean UI.
 
 9️⃣
 sql
